@@ -1,5 +1,8 @@
-header {
+header,
+footer {
   background-color: #202020;
+  color: #fff;
+  text-align: center;
 }
 
 header a {
@@ -9,6 +12,7 @@ header a {
 .cta {
   background-color: #bb0000;
   color: #fff;
+  font-size: 1.5em;
 }
 
 .reviews {
