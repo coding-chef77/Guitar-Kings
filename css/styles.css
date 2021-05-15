@@ -1,3 +1,12 @@
+@font-face {
+    font-family: "Boots and Spurs";
+    src: url("../fonts/BootsAndSpurs.ttf") format(truetype);
+}
+
+h1 {
+    font-family: "Boots and Spurs";
+}
+
 header,
 footer {
   background-color: #202020;
