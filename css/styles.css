@@ -2,7 +2,6 @@ header,
 footer {
   background-color: #202020;
   color: #fff;
-  text-align: center;
 }
 
 header a {
@@ -25,4 +24,8 @@ header a {
 
 .cta-sale {
   background-color: ; #127300;
+}
+
+footer {
+    text-align: center;
 }
