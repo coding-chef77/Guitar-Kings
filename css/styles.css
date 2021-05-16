@@ -1,11 +1,21 @@
 @font-face {
-    font-family: "Boots and Spurs";
-    src: url("../fonts/BootsAndSpurs.ttf") format(truetype);
+    font-family: "Boots And Spurs";
+    src: url("../fonts/BootsAndSpurs(1).ttf") format("truetype");
+  }
+
+body {
+    font-family: "Roberto";
 }
 
-h1 {
-    font-family: "Boots and Spurs";
+h1,
+h2,
+.logo {
+    font-family: "Boots and Spurs", "Segoe UI", tahoma;
 }
+
+.product-list h2 {
+    font-family: "Roboto", Verdana, Geneva, Tahoma, sans-serif;
+  }
 
 header,
 footer {
